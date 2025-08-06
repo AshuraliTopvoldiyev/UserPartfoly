@@ -65,7 +65,7 @@ ul li a {
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 1px;
-    color: #4B5563;
+    color: #4b5563dd;
 }
 ul li a:hover{
     padding-bottom: 3px;
@@ -73,12 +73,12 @@ ul li a:hover{
 }
 .darklight:hover i{
     transform: scale(1.2);
-    transition: all 0.2s ease-in-out;
+    transition: all 0.3s ease-in-out;
     cursor: pointer;
 
 }
 body.active .darklight i {
-    color: #D1D5DB;
+    color: #d1d5dbf0;
     
 }
 
